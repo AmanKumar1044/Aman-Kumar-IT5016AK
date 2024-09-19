@@ -61,7 +61,7 @@ if __name__ == "__main__":
     main()
 
     
-                             Convenience Store
+                             Convenience Store ( code is available in Research/Program File )
 1. Single Responsibility Principle (SRP): Each class has a single responsibility: * Product class is responsible for representing a product with its attributes (name, price, quantity). * ConvenienceStore class is responsible for managing the inventory of products.
 
 2. Separation of Concerns (SoC): Each class is concerned with its own specific functionality: * Product class is concerned with product-related attributes and behavior. * ConvenienceStore class is concerned with store-related functionality (adding, removing, displaying products).
